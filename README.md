@@ -1,6 +1,5 @@
 Functionalities Implemented
 **Recipe Search:**
-
 Users can search for recipes using keywords like ingredients or dish names. This is achieved using a recipe API (like Edamam or Spoonacular), where recipes are dynamically fetched and displayed as users type.
 
 **Recipe Details Page:** Users can view detailed information about a recipe, including the title, ingredients, instructions, and an image. This is displayed on a separate page, ensuring clarity and user-friendliness.
